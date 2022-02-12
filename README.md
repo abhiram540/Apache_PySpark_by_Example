@@ -1,0 +1,2 @@
+# Apache_PySpark_by_Example
+ The Colab Notebook in this repository does a great job explaining why you would use Spark and PySpark, walking you through the technical setup, illustrating how to talk to the DataFrame API, and distinguishing these DataFrames from RDDs — Resilient Distributed Datasets that are essentially big lists, but stored in different locations — a cornerstone of the PySpark toolkit. (Credits: LinkedIn Learning - Apache PySpark by Example))
